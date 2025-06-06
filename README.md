@@ -46,3 +46,7 @@ Gather 3–5 high-quality images of the object (e.g., a pet, toy, or furniture) 
 
 ### ✨ Step 3: Generate Customized Images
 Use the token in prompts with desired styles, scenes, or modifiers:
+```text
+"A photorealistic portrait of <my-object> in a futuristic city"
+"Pixel art of <my-object> on Mars"
+"A Van Gogh-style painting of <my-object>"
